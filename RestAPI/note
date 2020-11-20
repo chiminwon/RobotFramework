@@ -1,0 +1,94 @@
+Part01
+Agenda
+---------------------------------------
+Python
+Pycharm IDE
+Install following libraries using CMD
+    - robotframework
+    - requests
+    - robotframework-requests
+    - jsonpath_rw
+    - jsonpath_rw_ext
+    - robotframework-jsonlibrary
+
+
+Part02
+Agenda
+---------------------------------------
+Rest api http methods
+    - GET
+    - POST
+    - PUT
+    - DELETE
+
+
+
+Part03
+Agenda
+---------------------------------------
+Get Post Put Delete
+
+
+Part04
+Agenda
+---------------------------------------
+Get Post Put Delete
+
+
+Part05
+Agenda
+---------------------------------------
+What is json?
+What is json path?
+What is the use of json path?
+How to write json path?
+How to write complex json path with json array & Object?
+How to access data from json?
+
+
+Part06
+Agenda
+---------------------------------------
+How to validate data in json file
+How to validtae complex data in json response?
+
+
+Part07
+Agenda
+---------------------------------------
+How to validate data in xml file
+How to validtae data in xml response?
+
+
+Part08
+Agenda
+---------------------------------------
+http://tomas-bayer.com
+
+
+Part09
+Agenda
+---------------------------------------
+How to validate headers & cookies?
+
+
+Part10
+Agenda
+---------------------------------------
+Basic Authentication
+Bearer Authentication
+API Key Authentication
+
+
+Part11
+Agenda
+---------------------------------------
+Basic Authentication
+Bearer Authentication
+API Key Authentication
+
+
+Part12
+Agenda
+---------------------------------------
+Google Maps Places API

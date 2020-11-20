@@ -1,0 +1,240 @@
+pip upgrade
+    python -m pip install --upgrade pip
+
+pip install robotframework
+pip install robotframework-seleniumlibrary
+pip list
+
+https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html
+
+install ChroPath plugin
+
+---------------------------------------
+Agenda
+---------------------------------------
+
+Day01
+Robot Framework
+---------------------------------------
+Robot Framework is a generic test automation framework for accepting testing.
+Acceptance test-driven development(ATDD).
+It utilizes the keyword-driven testing approach.
+Provides test libraries implemented either with Python or Java, and users can create new higher-level keywords from existing ones using the same syntax that is used for creating test cases.
+Not much programming is required.
+
+Setup
+---------------------------------------
+1) Install Python
+2) Install PyCharm IDE
+3) Install Selenium
+4) Install Robot Framework
+5) Install robotframeworkselenium2library
+6) Install plugin IntelliBot @SeleniumLibrary Patched
+
+
+Day02
+Project folder structure
+File Extensions
+Multiple sections in Robot file
+Writing test case
+Report
+
+
+Day03
+---------------------------------------
+Working with Web Elements
+
+Text Box/Input Box
+    - Visibility status
+    - Enabled status
+    - Provide value
+    - Clearing value
+
+    - Verify title of the page
+
+
+Day04
+---------------------------------------
+Working with Radio buttons & Check boxes
+
+
+Day05
+Agenda
+---------------------------------------
+Working with Drop Down & List Box
+
+
+Day06
+Agenda
+---------------------------------------
+Selenium Speed
+Selenium Timeout
+Implicit wait
+Sleep
+
+
+Day07
+Agenda
+---------------------------------------
+How to close Single & multiple browsers
+
+
+Day08
+Agenda
+---------------------------------------
+How to handle Alert
+How to handle Frame
+
+
+Day09
+Agenda
+---------------------------------------
+How to handle Tabbed Windows
+How to handle Browser Windows
+
+
+Day10
+Agenda
+---------------------------------------
+Browser related Keywords
+    - Go to
+    - Go back
+    - Get location
+
+
+Day11
+Agenda
+---------------------------------------
+Capture Element Screen Shot
+Capture Page Screen Shot
+
+
+Day12
+Agenda
+---------------------------------------
+Mouse Actions
+---------------------------------------
+Right click
+Double click
+Drag & Drop
+
+
+Day13
+Agenda
+---------------------------------------
+User Defined Keywords
+---------------------------------------
+User defined keyword without Arguments
+User defined keyword with Arguments
+User defined keyword with Arguments & Return value
+
+
+Day14
+Agenda
+---------------------------------------
+Scrolling Page using JavaScriptExecutor
+---------------------------------------
+Scrolling page till it reach a pixel number
+Scrolling page till find element on page
+Scroll page till the bottom
+
+
+Day15
+Agenda
+---------------------------------------
+For loop in robot framework
+
+
+Day16
+Agenda
+---------------------------------------
+Links
+---------------------------------------
+Count Number of links on web page
+Extract all the links from page
+
+
+Day17
+Working with html table
+---------------------------------------
+Count number of rows in a table
+Count number of columns in a table
+Get data from table
+Validations on table
+
+
+Day18
+Agenda
+---------------------------------------
+Data driven testing
+---------------------------------------
+
+
+Day19
+Agenda
+---------------------------------------
+Data driven testing
+---------------------------------------
+Specify test data in the script
+Read test data from excel file(.xlsx)
+Read test data from csv file(.csv)
+
+
+Day20
+Agenda
+---------------------------------------
+Database Testing
+---------------------------------------
+
+
+Day21
+Agenda
+---------------------------------------
+Setup & Teardown Robot Framework
+---------------------------------------
+Test Setup - will run before every test case
+Test Teardown - will run after every test case
+Suite Setup - will run before Test Suite
+Suite Teardown - will run after Test Suite
+
+
+Day22
+Agenda
+---------------------------------------
+Grouping Tests using Tags
+---------------------------------------
+
+
+Day23
+Agenda
+---------------------------------------
+Page Object Model - Design Pattern
+---------------------------------------
+
+
+Day24
+Agenda
+---------------------------------------
+Executing Test Suites in Robot Framework
+---------------------------------------
+How to run test suites
+How to run tests parallelly using robotframework-pabot
+How to save results in result folder
+How to run tests using single windows bat file
+
+
+Day25
+Agenda
+---------------------------------------
+Headless Browser Testing in RobotFramework
+---------------------------------------
+headlesschrome
+headlessfirefox
+
+
+Day26
+Agenda
+---------------------------------------
+Jenkins
+---------------------------------------
+How to run tests in Jenkins(CI Tool)
